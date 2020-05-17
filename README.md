@@ -12,4 +12,5 @@ Bootstrap
 
 
 #Screenshots 
+![alt text](https://github.com/shishir36982/AdmitKard/blob/master/1.PNG)
 
